@@ -1,6 +1,9 @@
 # Traffic-Sign-Classification
 Term project for CMPE 257 Machine Learning
 
+## Dataset. 
+GTSRB- German Traffic Sign Recognition dataset with 43 classes of images.
+
 
 ## Team Members-
 - Mrunali Sanjay Khandat
